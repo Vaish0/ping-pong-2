@@ -1,0 +1,20 @@
+body
+{
+background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin-top: 0%;
+}
+.copy_right_footer {
+    position: fixed;
+    color: aliceblue;
+    bottom: 0;
+    width: 100%;
+    background-color: #2b00ff;
+    line-height: 2;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 2px black;
+}
